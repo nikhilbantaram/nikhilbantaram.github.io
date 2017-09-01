@@ -9,6 +9,7 @@ html, body {
             display: table;
             font-family: 'Alegreya Sans',sans-serif;
     color: #333;
+    background: #ccc;
         }
 
         .container {
